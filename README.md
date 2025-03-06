@@ -8,6 +8,11 @@ Fitur yang tersedia dalam aplikasi:
 3. Tambah data tamu (admin)
 4. CRUD (admin)
 
+Tools dan IDE 
+- XAMPP
+- Netbeans 8.2
+- mysql-connector/j 
+
 ![JavaProject](https://github.com/user-attachments/assets/cde5ea59-c256-4121-b3d2-a1e5d0fab09e)
 
 
